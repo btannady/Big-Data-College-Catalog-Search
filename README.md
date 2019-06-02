@@ -1,7 +1,13 @@
 Hi,
 
 This is my Diablo Valley College Course Catalog Search Program!
-It is coded in C++, the DvcScheduleSearch.cpp file reads off of the dvc-schedule.txt file, so make sure you have them both in the same file directory when you compile the DvcScheduleSearch.cpp program.
+It is coded in C++, the DvcScheduleSearch.cpp file reads off of the dvc-schedule.txt file, so make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
+
+
+ALSO NOTE:
+If you are on Xcode, you may need to go to Product > Scheme > Edit Scheme > Run test (on the right) > Options (middle top).
+Down under Options check “Use custom working directory” and set it to the directory where your .txt file is located.
+Sometimes Xcode has trouble locating the .txt file even though it is correctly in the same directory as the .cpp file. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 How the program works is:
