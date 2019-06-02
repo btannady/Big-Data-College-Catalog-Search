@@ -20,7 +20,6 @@ int main(){
     
     /*Programmer's Identification*/
     cout << "Programmer: Benedict Tannady"<< endl;
-    cout << "Programmer's ID: 1591141" << endl;
     cout << "File: " << __FILE__ << endl;
     
     /*-----------------------------------------------------------------------*/
