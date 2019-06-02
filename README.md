@@ -1,8 +1,8 @@
-# (Big Data) College Course Catalog Search Program 
+# Big Data: College Course Catalog Search Program 
 
 Hi,
 
-This is my (Big Data) College Course Catalog Search Program!
+This is my College Course Catalog Search Program!
 It is coded in C++, the DvcScheduleSearch.cpp file reads off of the dvc-schedule.txt file, so make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
 
 
