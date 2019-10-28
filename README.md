@@ -2,14 +2,11 @@
 
 Hi,
 
-This is my College Course Catalog Search Program!
-It is coded in C++, the DvcScheduleSearch.cpp file reads off of the dvc-schedule.txt file, so make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
+This is my Course Catalog Search Program!
+The language mainly used in creating this program was C++. The DvcScheduleSearch.cpp is the file that runs the search program, it will quickly and efficiently read and parse through lines of the dvc-schedule.txt file, so make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
 
-
-ALSO NOTE:
-If you are on Xcode, you may need to go to Product > Scheme > Edit Scheme > Run test (on the right) > Options (middle top).
-Down under Options check “Use custom working directory” and set it to the directory where your .txt file is located.
-Sometimes Xcode has trouble locating the .txt file even though it is correctly in the same directory as the .cpp file. 
+Hope you enjoy the program I made!
+- Benedict Tannady
 
 ------------------------------------------------------------------------------------------------------------------------------
 How the program works is:
@@ -24,3 +21,5 @@ How the program works is:
   
   5. The program will then loop again (to step 1.) and ask the user for a course they'd like to know about. The program will keep looping and won't end until the user inputs the character 'X' or 'x' back into the program.
  
+ 6. Try it yourself! 
+     Download the project folder and open the file labeled 'DvcScheduleSearch.cpp'!
