@@ -2,11 +2,13 @@
 
 Hi,
 
-This is my Course Catalog Search Program!
-The language mainly used in creating this program was C++. The DvcScheduleSearch.cpp is the file that runs the search program, it will quickly and efficiently read and parse through lines of the dvc-schedule.txt file, so make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
+This is my Course Catalog Search Program! The language mainly used in creating this program was C++. 
+The DvcScheduleSearch.cpp is the file that runs the search program, it will quickly and efficiently read and parse through lines of the dvc-schedule.txt file. So make sure you have them BOTH in the same file directory when you compile the DvcScheduleSearch.cpp program.
+
 
 Hope you enjoy the program I made!
-- Benedict Tannady
+
+Benedict Tannady
 
 ------------------------------------------------------------------------------------------------------------------------------
 How the program works is:
